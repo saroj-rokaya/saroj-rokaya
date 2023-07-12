@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saroj-rokaya&label=Profile%20views&color=0e75b6&style=flat" alt="saroj-rokaya" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **rokayasaroj188@gmail.com**
 
